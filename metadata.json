@@ -1,0 +1,6 @@
+{
+  "name": "Alpha Descriptor",
+  "description": "VPN descriptor module for various encrypted configuration profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
